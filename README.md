@@ -24,5 +24,5 @@ Feel free to contribute to this project by:
 Reporting issues: If you find any bugs or have suggestions for improvement, please open an issue on GitHub.
 Submitting pull requests: If you want to make changes to the code, you can submit a pull request.
 
-*Ernane Nunes
-*ernanenn@gmail.com
+Ernane Nunes
+ernanenn@gmail.com
